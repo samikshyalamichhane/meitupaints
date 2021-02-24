@@ -1,0 +1,272 @@
+/*===============Rtl Style Start===================*/
+
+header.header-area {
+    direction: ltr;
+}
+
+.hero-content-1 h1 {
+    margin-left: auto;
+}
+
+section.hero-slider {
+    direction: ltr;
+}
+.hero-content-1 {  
+    margin-bottom: 140px;
+    position: relative;
+    left: 0;
+    right: 10%;
+    text-align: right;
+}
+.learn-ab {
+    left: unset;
+    right: 80px;
+}
+.e-tottle {
+    padding: 20px 15px;
+}
+
+.estimate-card label:first-child input[type=radio] {
+    margin-left: 0px;
+    margin-right: 0;
+    margin-left: 10px;
+}
+.card.estimate-card {
+    text-align: right;
+}
+
+.single-service {
+    text-align: right;
+}
+.about {
+    text-align: right;
+}
+.prj-1-content {
+    text-align: right;
+}
+.client-content h3 {
+    text-align: right;
+}
+.client-content {
+    text-align: right;
+}
+
+.client-content p {
+    text-align: right;
+}
+#quote-carousel .carousel-indicators {
+    position: relative;
+    right: 0;
+}
+.testimo-slide-2 .testimonial-nav {
+    text-align: center;
+}
+.form-control {
+    margin-bottom: 30px;
+}
+
+#quote-carousel .carousel-indicators {
+    position: relative;
+    right: 0;
+    padding: 0;
+}
+.testimonial-nav {
+    text-align: right;
+}
+
+.blog-one {
+    text-align: right;
+}
+
+.footer-content {
+    text-align: right;
+}
+
+.h2-about {
+    padding-right: 50px;
+    padding-top: 30px;
+    text-align: right;
+}
+
+.colo-content {
+    text-align: right;
+}
+.prj-five {
+    text-align: right;
+}
+
+.prj-four {
+    text-align: right;
+}
+.testimo-slide-2 #quote-carousel .carousel-indicators {
+    position: relative;
+    right: 0;
+}
+.pro-ask-content-2 {
+    text-align: right;
+}
+
+.ss-2-content {
+    left: 0;
+    margin: auto;
+    text-align: right;
+}
+
+span#basic-addon2 {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.paint-about {
+    text-align: right;
+    left: 0;
+}
+section.wall-painting {
+    overflow: hidden;
+}
+
+.wps-text {
+    text-align: right;
+    padding-right: 0;
+}
+.wp-services {
+    text-align: right;
+
+}
+.o-e-content {
+    text-align: right;
+}
+.t-members {
+    right: 15%;
+}
+.expart-content {
+    text-align: right;
+}
+.c-a-image img {
+    left: 15%;
+}
+.c-a-image::before {
+    right: -20%;;
+}
+.c-a-image::after {
+    left: 4%;
+    top: 3%;
+}
+
+.c-a-content {
+    text-align: right;
+}
+.cap-1::before {
+    left: 0;
+}
+
+.st-s-icon {
+    left: 25%;
+}
+
+.allcounterup {
+    left: 0;
+}
+.acap-1::before {
+    left: 0;
+}
+.message-box {
+    text-align: right;
+}
+
+.p-catagory {
+    margin: 50px auto;
+    width: 60%;
+}
+.pd-content {
+    text-align: right;
+}
+
+.blog-content {
+    text-align: right;
+}
+.sc-details {
+    text-align: right;
+}
+.cb-input {
+    text-align: right;
+}
+.client-coment {
+    text-align: right;
+}
+
+.blog-sidebar {
+    left: 0;
+    right: 10%;
+}
+.sidebar-widget.popular-categories-wrapper {
+    text-align: right;
+}
+.es-card-2 .e-tottle {
+    padding: 9px 15px;
+}
+/*===============Rtl Style End===================*/
+
+
+/*================Responsive  Start==============*/
+
+/* Large devices (desktops, less than 1200px)*/
+@media only screen and (max-width: 1199px) {
+
+    .st-s-icon {
+        left: 15%;
+    }
+}
+
+
+@media only screen and (max-width: 991px) {
+
+    .e-tottle {
+        padding: 0px 15px;
+    }
+    .p-catagory {
+        width: 100%;
+    }
+    .blog-sidebar {
+        left: 0;
+        right: 0;
+    }
+    .es-card-2 .e-tottle {
+        padding: 5px 15px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+
+    .e-tottle {
+        padding: 5px 15px;
+    }
+    .hero-content-1 {
+        right: 0;
+    }
+    .client-content p {
+        width: 100% !important;
+    }
+    .h2-about {
+        padding-right: 0;
+    }
+    .sticon {
+        height: 50px;
+        width: 50px;
+        margin-top: 10px;
+        margin-right: 10px;
+        font-size: 20px;
+        padding: 17px 19px;
+    }
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+.st-s-icon {
+    left: 10%;
+}
+
+}
+/*================Responsive End==============*/
